@@ -44,10 +44,10 @@ function handleAddFavorite(index: any){
     setReposGitHubUserDataAPI(reposGitHubUserDataAPI?.filter(function(value, index, arr){ 
       return index != elementSelect ;
     }))
-  },300)
+  },600)
   setTimeout(()=>{
     setFavoriteDataStorageGitHubUser(undefined)
-  },500)
+  },800)
 }
 
 // STORAGE LIST FAVORITE 
