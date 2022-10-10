@@ -6,6 +6,9 @@ Depois disso é necessário o comando yarn install para baixar todas as depedenc
 # Download do Projeto completo em zip:<br /> 
 https://drive.google.com/file/d/12o_wmbnZ7Sk-WwP6PNioS49Bjz9SglRy/view?usp=sharing<br /> 
 
+# Video Youtube 
+https://youtu.be/-GWWFgr_JH0
+
 # Bibliotecas usadas:<br /> 
  "@react-navigation/bottom-tabs": "^6.4.0",<br /> 
  "@react-navigation/native": "^6.0.13",<br /> 
