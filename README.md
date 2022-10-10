@@ -1,5 +1,5 @@
 # Wefit
-Arquivos modificados e criados de um projeto React Native versão 0.70.2.<br /> 
+Arquivos modificados e criados de um projeto React Native versão TypeScript 0.70.2.<br /> 
 - Fazer o download, adicionar e substituir os arquivos com os mesmo nome.<br /> 
 - Depois disso, é necessário o comando yarn install para baixar todas as depedencias do projeto.<br /> 
 
