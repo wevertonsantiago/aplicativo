@@ -3,10 +3,10 @@ Arquivos modificados e criados de um projeto React Native versão 0.70.2.<br />
 Fazer o download e adicionar e substituir os arquivos com os mesmo nome.<br /> 
 Depois disso é necessário o comando yarn install para baixar todas as depedencias do projeto.<br /> 
 
-Download do Projeto completo em zip:<br /> 
+# Download do Projeto completo em zip:<br /> 
 https://drive.google.com/file/d/12o_wmbnZ7Sk-WwP6PNioS49Bjz9SglRy/view?usp=sharing<br /> 
 
-Bibliotecas usadas:<br /> 
+# Bibliotecas usadas:<br /> 
  "@react-navigation/bottom-tabs": "^6.4.0",<br /> 
  "@react-navigation/native": "^6.0.13",<br /> 
  "axios": "^0.27.2",<br /> 
